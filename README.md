@@ -12,7 +12,7 @@ All official releases of Redo Backup and Redo Rescue can be downloaded from [Sou
 
 ## Related projects
 
-* **[Rescuezilla](https://github.com/rescuezilla/rescuezilla)**: After years without a new release, the source code for Redo Backup 1.0.4 (released in 2012) was forked in 2019, and many long-standing bugs that affected this version were fixed. Rescuezilla's lead maintainer offers outstanding support (even extending to users of past releases of Redo Backup!) and has many ambitious features slated for inclusion, including the aim of becoming a drop-in replacement for Clonezilla.
+* **[Rescuezilla](https://github.com/rescuezilla/rescuezilla)**: After years without a new release, the source code for Redo Backup 1.0.4 (released in 2012) was forked in 2019, and many long-standing bugs that affected this version were fixed. Rescuezilla's lead maintainer offers outstanding support (even extending to users of past releases of Redo Backup!) and has many ambitious features slated for inclusion, including the aim of becoming a drop-in replacement for Clonezilla. If Redo doesn't suit your needs or you are seeking a more feature-complete solution, we highly recommend checking out [Rescuezilla](https://github.com/rescuezilla/rescuezilla).
 
 ## Source for older releases
 
