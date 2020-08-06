@@ -4,7 +4,7 @@
 
 Years ago, the domains `redobackup.com` and `redobackup.org` briefly lapsed, and the registration was scooped up by domain name registrars and offered for a mere 4000.00 USD. As of version 2.0, releases are titled **Redo Rescue**, though we continue to provide support and host resources under the Redo Backup name on SourceForge and other platforms.
 
-All official releases of Redo Backup and Redo Rescue can be downloaded from [SourceForge](https://sourceforge.net/projects/redobackup/files/latest/download). The latest source code is hosted at [GitHub](https://github.com/redorescue/redorescue). More information about the project and its features can be found at [the project website](http://redorescue.com/).
+All official releases of Redo Backup and Redo Rescue can be downloaded from [SourceForge](https://sourceforge.net/projects/redobackup/files). The latest source code is hosted at [GitHub](https://github.com/redorescue/redorescue). More information about the project and its features can be found at [the project website](http://redorescue.com/).
 
 * Home: http://redorescue.com/
 * Download: https://sourceforge.net/projects/redobackup/files/latest/download
@@ -12,4 +12,8 @@ All official releases of Redo Backup and Redo Rescue can be downloaded from [Sou
 
 ## Related projects
 
-* **[Rescuezilla](https://github.com/rescuezilla/rescuezilla)**: After years without a new release, the source code for Redo Backup 1.0.4 (released in 2012) was forked in 2019, and many long-standing bugs that affected this version were fixed. Rescuezilla's lead maintainer offers outstanding support (even extending to users of past releases of Redo Backup!) and has many ambitious features slated for inclusion, including the aim of becoming a drop-in replacement for Clonezilla. This is definitely a project worth taking a look at.
+* **[Rescuezilla](https://github.com/rescuezilla/rescuezilla)**: After years without a new release, the source code for Redo Backup 1.0.4 (released in 2012) was forked in 2019, and many long-standing bugs that affected this version were fixed. Rescuezilla's lead maintainer offers outstanding support (even extending to users of past releases of Redo Backup!) and has many ambitious features slated for inclusion, including the aim of becoming a drop-in replacement for Clonezilla.
+
+## Source for older releases
+
+While the tarballs for source code for versions 1.0.4 and prior are available for download from [SourceForge](https://sourceforge.net/projects/redobackup/files), the **Rescuezilla** project also maintains a meticulously reconstructed [Redo Backup and Recovery source code archive](https://github.com/rescuezilla/redobackup) with extensive information about past releases (far more than simply a mirror of the source code).
