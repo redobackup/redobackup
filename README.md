@@ -6,7 +6,7 @@ Years ago, the domains `redobackup.com` and `redobackup.org` briefly lapsed, and
 
 ## Where'd it go?
 
-All official releases of Redo Backup and Redo Rescue can be downloaded from [SourceForge](https://sourceforge.net/projects/redobackup/files). The latest source code is hosted at [GitHub](https://github.com/redorescue/redorescue). More information about the project and its features can be found at [the project website](http://redorescue.com/).
+All official releases of Redo Backup / Redo Rescue (from its inception in 2010 to today) can be downloaded from the official [SourceForge project page](https://sourceforge.net/projects/redobackup/files). The latest source code (for versions 2.0 and later) is hosted at [GitHub](https://github.com/redorescue/redorescue). More information about the project and its features can be found at [the project website](http://redorescue.com/).
 
 * Home: http://redorescue.com/
 * Download: https://sourceforge.net/projects/redobackup/files/latest/download
