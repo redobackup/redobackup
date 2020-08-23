@@ -2,9 +2,9 @@
 
 ## What happened?
 
-Years ago, the domains `redobackup.com` and `redobackup.org` briefly lapsed, and the registration was scooped up by domain name registrars and re-offered for 4,000.00 USD. We had to register `redorescue.com` instead. For this reason, as of version 2.0, new releases are titled **Redo Rescue**, though we continue to provide support and host resources under the Redo Backup name on [the official SourceForge project page](https://sourceforge.net/projects/redobackup/) and other platforms.
+Years ago, the domains `redobackup.com` and `redobackup.org` briefly lapsed, and the registration was scooped up by domain name registrars and re-offered for 4,000.00 USD. We registered `redorescue.com` instead, and as of version 2.0, new releases are titled **Redo Rescue**, though we continue to provide support and host resources under the Redo Backup name on [the official SourceForge project page](https://sourceforge.net/projects/redobackup/) and other platforms.
 
-**To be clear, Redo Rescue is not a fork. It is the same project, released by the same authors, with an updated title.**
+**To be clear, [Redo Rescue](https://github.com/redorescue/redorescue) is not a fork of Redo Backup. It is the same project, released by the same authors, with an updated title.**
 
 ## Where can I find it?
 
