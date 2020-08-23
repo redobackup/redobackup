@@ -20,4 +20,6 @@ All official releases of Redo Backup / Redo Rescue (from its inception in 2010 t
 
 ## Source for older releases
 
-Official source code tarballs for versions 1.0.4 and prior are available for download from [SourceForge](https://sourceforge.net/projects/redobackup/files). In addition, the **Rescuezilla** project also maintains a meticulously reconstructed [Redo Backup and Recovery source code archive](https://github.com/rescuezilla/redobackup) with extensive information about past releases which it describes as "far more than simply a mirror of the source code".
+**Official source code tarballs for versions 1.0.4 and prior are available for download from [SourceForge](https://sourceforge.net/projects/redobackup/files).**
+
+In addition, the **Rescuezilla** project also maintains a meticulously reconstructed [Redo Backup and Recovery source code archive](https://github.com/rescuezilla/redobackup) with extensive information about past releases which it describes as "far more than simply a mirror of the source code".
