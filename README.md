@@ -2,9 +2,9 @@
 
 ## What happened?
 
-Years ago, the domains `redobackup.com` and `redobackup.org` briefly lapsed, and the registration was scooped up by domain name registrars and offered for a mere 4000.00 USD. As of version 2.0, releases are titled **Redo Rescue**, though we continue to provide support and host resources under the Redo Backup name on SourceForge and other platforms.
+Years ago, the domains `redobackup.com` and `redobackup.org` briefly lapsed, and the registration was scooped up by domain name registrars and offered for a mere 4000.00 USD. As of version 2.0, releases are titled **Redo Rescue**, though we continue to provide support and host resources under the Redo Backup name on [the official SourceForge project page](https://sourceforge.net/projects/redobackup/) and other platforms.
 
-## Where'd it go?
+## Where can I find it?
 
 All official releases of Redo Backup / Redo Rescue (from its inception in 2010 to today) can be downloaded from the official [SourceForge project page](https://sourceforge.net/projects/redobackup/files). The latest source code (for versions 2.0 and later) is hosted at [GitHub](https://github.com/redorescue/redorescue). More information about the project and its features can be found at [the project website](http://redorescue.com/).
 
